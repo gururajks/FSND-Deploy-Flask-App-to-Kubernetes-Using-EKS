@@ -10,7 +10,7 @@ import main
 SECRET = 'jwt_secret'
 TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjEzMDY3OTAsIm5iZiI6MTU2MDA5NzE5MCwiZW1haWwiOiJ3b2xmQHRoZWRvb3IuY29tIn0.IpM4VMnqIgOoQeJxUbLT-cRcAjK41jronkVrqRLFmmk'
 EMAIL = 'gururajks1988@gmail.com'
-PASSWORD = '12345'
+PASSWORD = '1234'
 
 @pytest.fixture
 def client():
